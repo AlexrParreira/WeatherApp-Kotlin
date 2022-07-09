@@ -1,2 +1,2 @@
-## WeatherApp-Kotlin
-# My first kotlin study app
+# WeatherApp-Kotlin
+### My first kotlin study app
